@@ -1,0 +1,18 @@
+{
+  "name": "pc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "aws-iot-device-sdk": "^2.2.1",
+    "aws-sdk": "^2.197.0",
+    "uuid": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
